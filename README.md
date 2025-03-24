@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Gergana
-- 👀 I’m working as an Android developer
 - 🌱 I’m passionate about working on meaningful projects and constantly learning and improving myself.
 
 <!---
